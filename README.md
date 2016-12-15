@@ -1,1 +1,1 @@
-These files are part of my final project for Program for Cultural Heritage. They use python to make up different parts of the project.
+These files are part of my final project for Programming for Cultural Heritage at Pratt. They use python to make up different parts of my project.
